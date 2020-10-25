@@ -1,0 +1,26 @@
+Project Details:
+This project is frontend build developed on react.js. It contains website for buyer & seller through
+which user can buy, sell ,chat and can sign on agreements.
+
+Technology Used:
+1-React.js
+2-web3.js
+
+How to install?
+1-Extract the zip
+2-inside /build folder run the command "npm install"
+3-Install this extension on chrome "https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en"
+4-Don't create account just import account using this seed phrase
+"tornado stool witness garlic silly category start clown spike need vintage ticket"
+5-Select network "Rinkby Test Network" and select account 1
+6-Now navigate to build folder and simply run "npm start"
+
+Live Link
+website : https://prochain-api.el.r.appspot.com/
+
+In case of website start from step 3 described above
+
+
+Login Details
+email : zainabzubair@gmail.com
+password : _zainabProchain14
